@@ -9,6 +9,7 @@ import org.springframework.stereotype.Service;
 import br.com.alura.microservice.fornecedor.dto.ItemDoPedidoDTO;
 import br.com.alura.microservice.fornecedor.model.Pedido;
 import br.com.alura.microservice.fornecedor.model.PedidoItem;
+import br.com.alura.microservice.fornecedor.model.PedidoStatus;
 import br.com.alura.microservice.fornecedor.model.Produto;
 import br.com.alura.microservice.fornecedor.repository.PedidoRepository;
 import br.com.alura.microservice.fornecedor.repository.ProdutoRepository;
